@@ -21,7 +21,7 @@ body {
 } */
 
 .banner {
-    background-color: #31228A;
+    background-color: #731dd8;
     padding: 10px;
     margin-top: 30px;
     
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-    color: #31A68A;
+    color: #731dd8;
     font-size: 18px
 }
 
@@ -79,7 +79,7 @@ p {
 }
 
 .highlight {
-    color: #31228A;
+    color: #731dd8;
     font-weight: bold;
 }
 
@@ -126,7 +126,7 @@ ul {
 
 ul li::before {
     content: "\2022";
-    color: #31228A;
+    color: #731dd8;
     font-weight: bold; /* If you want it to be bold */
     display: inline-block; /* Needed to add space between the bullet and the text */
     width: 1em; /* Also needed for space (tweak if needed) */
